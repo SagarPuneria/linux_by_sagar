@@ -1,0 +1,9 @@
+#include<unistd.h>
+#include<stdio.h>
+main()
+{
+	fork();
+	fork();
+	fork();
+	printf("fork\n");
+}

@@ -1,0 +1,14 @@
+After dup2 fd2=1
+total 40
+atch1   17 Apr 27 17:47 file.txt
+cxv;lbb
+';dbf
+';lgf
+h'bgf
+;l batch1  327 Apr 26 13:37 p1.c
+- Apr 26 12:50 p2.c
+ch1  605 Apr 26 16:50 p3_7.c
+-rw-r--r-- 1 batch1 batch1  530 Apr 27 10:05 p4.c
+ batch1 batch1   94 Apr 26 16:25 p5.c
+djgvkljskl- 1 batch1 batch1  440 Apr 26 18:42 p8.c
+dskgjgpdf1 batch1  802 Apr 26 18:47 p9_10_12.c

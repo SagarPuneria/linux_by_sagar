@@ -1,0 +1,18 @@
+        -:    0:Source:simple.c
+        -:    0:Graph:simple.gcno
+        -:    0:Data:simple.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        1:    2:main()
+        -:    3:{
+        1:    4:int a = 0, b = 0 ;
+        1:    5:int sum = 0 ;
+        1:    6:printf("Enter any two numbers\n") ;
+        1:    7:scanf("%d %d",&a, &b) ;
+        1:    8:sum = a+b;
+        1:    9:if(sum > 10)
+        1:   10:printf("sum is greater than 10\n") ;
+        -:   11:else
+    #####:   12:printf("sum is less than 10\n") ;
+        1:   13:}
